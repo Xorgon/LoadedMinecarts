@@ -1,0 +1,5 @@
+name: ${artifactId}
+version: ${version}
+main: ${main.class}
+permissions:
+commands:
